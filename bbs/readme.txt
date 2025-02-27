@@ -1,0 +1,2 @@
+请在修改login.php中关于数据库的变量
+请在连接数据库成功后执行MySQL目录下的mybbs.sql文件
